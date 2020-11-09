@@ -40,6 +40,7 @@ Custom-Header: api-version=1
 ## Organize your API at least Restful
 
 https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm
+https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven
 
 ##Organize the API around resources
 
